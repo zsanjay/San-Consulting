@@ -22,9 +22,6 @@
 ## Tech Stack
 - [React](https://facebook.github.io/react/)
 - [JavaScripp(ES6)](https://facebook.github.io/react/)
-- [Firebase](https://firebase.google.com/)
-- [Firestore](https://firebase.google.com/docs/firestore)
-- [Firebase Authentication](https://firebase.google.com/docs/auth)
 - [Material-UI](https://material-ui.com/)
 - [Webpack](https://webpack.js.org/)
 - [FileSaver](https://www.npmjs.com/package/file-saver)
@@ -32,10 +29,6 @@
 - [Context API](#)
 - [stripe](#)
 - [React-router-dom v-6](#)
-- [Express](#)
-- [MongoDb](#)
-- [Node.js](#)
-- [More...](#)
 
 ### Installation
 
@@ -105,6 +98,23 @@ What you get here:
 
 ## Contact
 
-Sanjay Mehta - [Linkdeind](https://www.linkedin.com/in/sanjay-mehta-475280176/)
+Sanjay Mehta - [LinkedIn](https://www.linkedin.com/in/sanjay-mehta-475280176/)
 
 Project Link: [https://github.com/zsanjay/San-Consulting](https://github.com/zsanjay/San-Consulting)
+
+## Screen Shots
+
+![Home](src/Assets/home.png)
+
+![Sign In](src/Assets/sign-in.png)
+
+![Services](src/Assets/services.png)
+
+![Prices](src/Assets/price.png)
+
+![Compatibility](src/Assets/compatibility.png)
+
+![Contact Us](src/Assets/contact-us.png)
+
+![Footer](src/Assets/footer.png)
+
